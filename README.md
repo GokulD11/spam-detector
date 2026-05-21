@@ -4,7 +4,7 @@ An end-to-end machine learning project that classifies SMS messages as **spam** 
 
 🔗 **[Live Demo](https://spam-detector-gjjfnytjnrp6v7dmbjb5xq.streamlit.app/)** &nbsp;|&nbsp; Built with scikit-learn + Streamlit
 
-![App Screenshot](screenshots/app_demo.png)
+![App Screenshot](Screenshots/app_demo.png)
 
 
 ---
